@@ -62,6 +62,17 @@ Estas son algunas de las tecnologías y herramientas que estoy aprendiendo o que
 
 Me considero una persona que quiere seguir aprendiendo, conocer cosas nuevas y descubrir hasta dónde puede llegar con sus conocimientos. Veo esta etapa como una oportunidad para crecer, experimentar y encontrar nuevas formas de resolver problemas.
 
+## 📂 Mis proyectos
+
+Durante mi proceso de aprendizaje en ADSO he realizado diferentes actividades y proyectos para poner en práctica mis conocimientos.
+
+Estos son algunos de mis repositorios:
+
+- 🎯 [Mis metas]([https://github.com/TU-USUARIO/mis-metas](https://github.com/breymer-velilla/mis-metas.git)): repositorio donde organizo mis objetivos y metas personales para este trimestre.
+- 🍽️ [Mi receta]([https://github.com/TU-USUARIO/mi-receta](https://github.com/breymer-velilla/mi-receta.git)): proyecto en el que trabajo con archivos Markdown, documentación y comandos de Git para organizar una receta.
+
+
+
 Este perfil de GitHub será un espacio para guardar mis ejercicios, compartir mis proyectos y mostrar mi progreso durante mi formación en ADSO.
 
 **Gracias por visitar mi perfil. ¡Este es solo el comienzo de mi camino en el desarrollo de software!** 🚀
