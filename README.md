@@ -68,8 +68,8 @@ Durante mi proceso de aprendizaje en ADSO he realizado diferentes actividades y 
 
 Estos son algunos de mis repositorios:
 
-- 🎯 [Mis metas]([https://github.com/TU-USUARIO/mis-metas](https://github.com/breymer-velilla/mis-metas.git)): repositorio donde organizo mis objetivos y metas personales para este trimestre.
-- 🍽️ [Mi receta]([https://github.com/TU-USUARIO/mi-receta](https://github.com/breymer-velilla/mi-receta.git)): proyecto en el que trabajo con archivos Markdown, documentación y comandos de Git para organizar una receta.
+- 🎯 [Mis metas](https://github.com/breymer-velilla/mis-metas.git): repositorio donde organizo mis objetivos y metas personales para este trimestre.
+- 🍽️ [Mi receta](https://github.com/breymer-velilla/mi-receta.git): proyecto en el que trabajo con archivos Markdown, documentación y comandos de Git para organizar una receta.
 
 
 
