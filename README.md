@@ -62,6 +62,10 @@ Estas son algunas de las tecnologías y herramientas que estoy aprendiendo o que
 
 Me considero una persona que quiere seguir aprendiendo, conocer cosas nuevas y descubrir hasta dónde puede llegar con sus conocimientos. Veo esta etapa como una oportunidad para crecer, experimentar y encontrar nuevas formas de resolver problemas.
 
+## Mis Hobbies
+
+1. Ver series y peliculas, especificamente universos amplios.
+
 ## 📂 Mis proyectos
 
 Durante mi proceso de aprendizaje en ADSO he realizado diferentes actividades y proyectos para poner en práctica mis conocimientos.
