@@ -65,6 +65,7 @@ Me considero una persona que quiere seguir aprendiendo, conocer cosas nuevas y d
 ## Mis Hobbies
 
 1. Ver series y peliculas, especificamente universos amplios.
+2. Viajar con mi familia.
 
 ## 📂 Mis proyectos
 
